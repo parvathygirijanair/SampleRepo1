@@ -1,1 +1,33 @@
 console.log("Starting Playwright Automation");
+//1st
+let studentName="Alice";
+console.log(studentName);
+let age=25;
+console.log(age);
+let name="John";
+age=30;
+console.log(age,name);
+console.log(name);
+let country="India";
+console.log(country);
+console.log(typeof country);
+const collegeName="CEA";
+console.log(collegeName);
+let price=200;
+let quatity=20;
+let sum= price * quatity;
+console.log(sum);
+let isActive=true;
+console.log(isActive);
+console.log(typeof isActive);
+let price1=99.5;
+console.log(price1,typeof price1);
+let result=null;
+console.log(result,typeof result);
+let city;
+console.log(city,typeof city);
+let id=Symbol("id");
+
+console.log(id,typeof id);
+let phoneNumber;
+console.log(phoneNumber,typeof phoneNumber);
