@@ -56,4 +56,18 @@ b = 10
 console.log(a>b);
 console.log(a<b);
 console.log(a==b);
-console.log(a!=b);
+console.log(a!=b);//comment
+/*
+ Write a JavaScript program to check whether a person is eligible for a driving license. 
+let age = 25;
+let hasLicense = true;
+
+*/
+let age = 15;
+
+let eligibleForLicense= age>18?true:false;
+console.log(eligibleForLicense);
+
+let firstName = "Rahul";
+let lastName = "Sharma";
+console.log(firstName +" " +lastName);
